@@ -51,7 +51,7 @@ BiaEye transforms waste management from reactive cleanup to proactive prevention
 |----------|----------------|---------------------|------------|
 | YOLOv11  | 5.8ms          | 0.225               | 2.5M       |
 | YOLOv8   | 4.9ms          | 0.479               | 2.7M       |
-| YOLOv5   | 7.4ms          | 0.128               | —          |
+| YOLOv5   | 7.4ms          | 0.128               | 1.9M       |
 
 ---
 
