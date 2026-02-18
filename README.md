@@ -7,7 +7,7 @@ BiaEye is an intelligent system designed to detect illegal waste dumping in real
 
 ---
 
-## 🌍 Vision
+##  Vision
 
 BiaEye transforms waste management from reactive cleanup to proactive prevention. It supports UN SDGs 8, 9, 11, and 13 by:
 
@@ -17,7 +17,7 @@ BiaEye transforms waste management from reactive cleanup to proactive prevention
 
 ---
 
-## ✨ Core Features
+##  Core Features
 
 - **Real-Time Detection**: Cameras mounted on city vehicles use YOLO AI models to detect illegal dumping instantly
 - **Geospatial Analytics**: Maps waste hotspots for smarter bin placement and route planning
@@ -27,7 +27,7 @@ BiaEye transforms waste management from reactive cleanup to proactive prevention
 
 ---
 
-## ⚙️ System Architecture
+##  System Architecture
 
 1. **Data Capture**: Vehicle-mounted cameras scan surroundings
 2. **AI Detection**: YOLO model processes live video for illegal waste
@@ -38,7 +38,7 @@ BiaEye transforms waste management from reactive cleanup to proactive prevention
 
 ---
 
-## 🤖 Technology Stack
+##  Technology Stack
 
 - **AI Models**: 
   - YOLOv11 (main model): Best balance of accuracy and speed
@@ -58,16 +58,16 @@ BiaEye transforms waste management from reactive cleanup to proactive prevention
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - Finalist in GJU “Creative Solutions” Competition
 - Incubated by the Ministry of Digital Economy and Entrepreneurship
-- Presented at COP29 (Azerbaijan)
+- Presented at Artificial Intelligence with No Borders (United Arab Emirates)
 - Featured during World Youth Day 2024
 
 ---
 
-## 🚀 Roadmap
+##  Roadmap
 
 - **More Data**: Partnering with cities to diversify training datasets
 - **Stronger Engagement**: Gamified rewards and community leaderboards
