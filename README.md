@@ -1,7 +1,6 @@
 # BiaEye: AI-Powered Urban Waste Management Platform
 
-<img width="500" height="206" alt="image" src="https://github.com/user-attachments/assets/f4b50eed-ecd8-4b1f-b168-6ca2586e8352" />
-
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/f4b50eed-ecd8-4b1f-b168-6ca2586e8352" />
 
 BiaEye is an intelligent system designed to detect illegal waste dumping in real time, engage local communities, and provide municipalities with actionable insights. It integrates AI, geospatial analytics, and citizen participation to combat rising urban waste. BiaEye was selected for incubation by Jordan's Ministry of Digital Economy and Entrepreneurship and showcased at COP29.
 
