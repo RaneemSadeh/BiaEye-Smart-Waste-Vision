@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Trash']
+
+roboflow:
+  workspace: trash-detection-for-ecopatrol-crp-research-paper-szwix
+  project: trash-detection-for-rp
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/trash-detection-for-ecopatrol-crp-research-paper-szwix/trash-detection-for-rp/dataset/1
