@@ -267,11 +267,11 @@ dataset/
 
 ##  Team
 
-| Name | Role | Institution |
+| Name | Author | Institution |
 |------|------|-------------|
-| **Raneem Yahya Sadeh** | Lead Researcher & Founder | Al Hussein Technical University |
-| **Huthaifa Al-Omari** | Co-Author | Al Hussein Technical University |
-| **Murad A. Yaghi** | Principal Investigator (Senior IEEE Member) | Al Hussein Technical University |
+| **Raneem Yahya Sadeh** | Lead Researcher & Founder (First Author) | Al Hussein Technical University |
+| **Murad A. Yaghi** | Principal Investigator (Senior IEEE Member) (Second Author) | Al Hussein Technical University |
+| **Huthaifa Al-Omari** | Co-Author (Third Author) | Al Hussein Technical University |
 
 ---
 
