@@ -10,7 +10,6 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![YOLOv11](https://img.shields.io/badge/Model-YOLOv11-orange.svg)](https://arxiv.org/abs/2410.17725)
 [![IEEE Access](https://img.shields.io/badge/Published-IEEE%20Access-blue.svg)](https://doi.org/10.1109/ACCESS.2024.0429000)
-[![COP29](https://img.shields.io/badge/Showcased-COP29%20Baku-brightgreen.svg)](https://unfccc.int/cop29)
 
 **BiaEye** is an intelligent urban waste management system that detects illegal dumping in real time, empowers local communities, and delivers actionable geospatial intelligence to municipalities. It integrates state-of-the-art AI, GIS analytics, and citizen engagement to address one of today's most pressing environmental challenges.
 
