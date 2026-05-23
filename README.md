@@ -184,14 +184,12 @@ BiaEye directly supports four UN Sustainable Development Goals:
 | **SDG 13** — Climate Action | Reduces landfill methane emissions; optimizes truck routes to lower fuel consumption |
 
 ---
-
-##  Achievements
-
+## Achievements
+-  **First Place** — School of Computing and Informatics Scientific Day
+-  **Selected** — Presented at COP29
 -  **Finalist** — GJU "Creative Solutions" Competition
 -  **Incubated** — Jordan's Ministry of Digital Economy and Entrepreneurship
 -  **Presented** — Artificial Intelligence with No Borders (United Arab Emirates)
-
-
 ---
 
 ##  Getting Started
