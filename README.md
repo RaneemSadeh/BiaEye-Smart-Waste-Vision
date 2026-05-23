@@ -247,21 +247,6 @@ dataset/
 
 > All annotations use a single class: `Trash`. Bounding boxes were drawn manually in Roboflow.
 
----
-
-## Roadmap
-
-| Phase | Goal | Status |
-|-------|------|--------|
-| Phase 1 | YOLOv11 model training & validation | Complete |
-| Phase 2 | Field deployment in Amman | Complete |
-| Phase 3 | Expanded Jordan-specific dataset | In Progress |
-| Phase 4 | Gamified community leaderboards | In Progress |
-| Phase 5 | Mask R-CNN segmentation integration | Planned |
-| Phase 6 | 6–12 month behavioral impact study | Planned |
-| Phase 7 | Multi-city deployment | Planned |
-
----
 
 
 ##  Team
