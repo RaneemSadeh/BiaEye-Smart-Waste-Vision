@@ -194,7 +194,7 @@ BiaEye directly supports four UN Sustainable Development Goals:
 
 ##  Getting Started
 
-> **Note:** Full deployment requires truck-mounted cameras and municipal integration. The steps below cover local model inference.
+> **Note:** Full deployment requires truck-mounted cameras and municipal integration. The steps below cover local model inference
 
 ### Prerequisites
 
